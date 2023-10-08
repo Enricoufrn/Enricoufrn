@@ -19,6 +19,3 @@ Olá! Me chamo Enrico Luigi. Sou estudante do curso de Engenharia de Computaçã
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enricoufrn&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enricoufrn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-
-### Observação
-Infelizmente, desde que comecei a atuar na área, não tenho conseguido desenvolver tantos projetos pessoais como gostaria. Por isso, a porcentagem de Java não está significativamente acima das outras. 😥 
